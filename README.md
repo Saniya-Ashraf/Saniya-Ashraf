@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Saniya-Ashraf, Research Associate at CARL Buitems
-- 👀 I’m interested in ML applications
+- 👋 Hi, I’m @Saniya-Ashraf
+- 👀 I’m interested in Applied ML, and hyperdimensional Computing
 - 💞️ I’m looking to collaborate on interdisciplinary projects
 - 📫 reach me at saniya.ashraf@buitms.edu.pk
 
