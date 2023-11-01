@@ -7,7 +7,7 @@
 I'm an educator, a researcher, an engineer, an artist, a freelancer all rolled into one. My journey began at BUITEMS in Pakistan, where I majored in Software Engineering. Then, the Fulbright Scholarship whisked me away to Florida State University. There, I dipped my toes into Computer Vision and emerged with an MS in Computer Science. Not to brag, but I did make it to the Dean's list. Okay, maybe bragging a little.
 
 What Gets Me Out of Bed?
-In one word—possibilities. The thrill of what AI and Deep Learning can accomplish in realms as varied as healthcare and video gaming energizes me. Ever heard of using U-Nets and attention-guided techniques for neuroimaging? Yep, that's one of the projects I've worked on. The idea that code can literally "see" and "learn" fascinates me to no end.
+In one word—possibilities. The thrill of what AI and Deep Learning can accomplish in realms as varied as healthcare and video gaming energizes me. what facinates me is HOW DOES IT DO IT?. The idea that code can literally "see" and "learn" fascinates me to no end.
 
 ### 🧪 My Playground 
 
