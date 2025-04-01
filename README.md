@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saniya-Ashraf
 - 👀 I’m interested in Applied ML and explainable AI
 - 💞️ I’m looking to collaborate on interdisciplinary projects
-- 📫 reach me at saniya.ashraf@buitms.edu.pk
+  
 
 ## 🛡 Who Am I?
 I'm an educator, a researcher, an engineer, an artist, a freelancer all rolled into one. 
